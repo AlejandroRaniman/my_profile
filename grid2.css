@@ -1,0 +1,48 @@
+.all {
+    display: grid;
+    position: relative;
+    top: -450px;
+    margin-left: 475px;
+    justify-items:start;
+}
+.solicitudes {
+    grid-row: auto;
+
+}
+.solicitudes img{
+    border-radius: 20%;
+    height: 50px;
+    width: 50px;
+    
+    
+}
+
+.user1{
+    align-items: center;
+}
+.user2{
+    display: inline-flex;
+}
+.conexiones{
+    top: -450px;
+    display: grid;
+}
+.conexiones img{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+button{
+    border-radius: 50%;
+    border: 25px;
+}
+.education {
+    border-radius: 5%;
+    border: 2px solid black;
+    width: 450px;
+    height: auto;
+    position: relative;
+    top: 180px;
+    left: -475px;
+}

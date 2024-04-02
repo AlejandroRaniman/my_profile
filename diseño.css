@@ -1,0 +1,45 @@
+
+.tabla {
+    background-color: aqua;
+    width: 450px;
+    height: 90px;
+}
+.caja {
+    background-color: azure;
+    width: 450px;
+    height: 450px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+img {
+
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 10px;
+    position: relative;
+    top: -50px;
+}
+.edit {
+    height: 50px;
+    margin-left: 10px;
+    border-radius: 10%;
+}
+
+.nombre {
+    margin-left: 10px;
+}
+.ciudad {
+    margin-left: 10px;
+}
+.oficio {
+    margin-left: 10px;
+}
+.descripcion {
+    margin-left: 10px;
+}
+.text {
+    position: relative;
+    top: -50px;
+}
